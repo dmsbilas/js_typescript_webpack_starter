@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es5"
+  },
+  "files": [
+    "./main.ts",
+    "./interfaces/IGreetings.ts",
+    "./classes/Greetings.ts"
+  ]
+}
