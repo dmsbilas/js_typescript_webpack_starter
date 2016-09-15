@@ -7,3 +7,8 @@ let greetingObj = new Greetings("Hello lolly!");
 
 greetingObj.greet();
 console.log( greetingObj.showBil());
+
+
+$(document).ready(function(){
+	console.log("I am inside jquery");
+});

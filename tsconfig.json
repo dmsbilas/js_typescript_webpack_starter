@@ -5,6 +5,7 @@
   "files": [
     "./main.ts",
     "./interfaces/IGreetings.ts",
-    "./classes/Greetings.ts"
+    "./classes/Greetings.ts",
+    "./jquery.d.ts"
   ]
 }
